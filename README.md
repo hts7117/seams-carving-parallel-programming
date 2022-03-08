@@ -1,1 +1,1 @@
-# seams-carving-parallel-programming
+# Final Project Parallel Programming
